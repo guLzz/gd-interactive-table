@@ -1,0 +1,5 @@
+gd-interactive-table
+
+
+ALL THE CONTENT TO RECREATE THE GAME IS IN THIS FOLDER.
+
